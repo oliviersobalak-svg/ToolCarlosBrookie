@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "toolcarlosbrookie",
+  "version": "1.0.0",
+  "name": "ToolCarlosBrookie",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.toolcarlosbrookie.AutoToolMod"
+    ]
+  }
+}
